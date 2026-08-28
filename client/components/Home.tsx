@@ -12,13 +12,13 @@ function Home () {
       </section>
 
       <section>
-        <h2>Why I'm Building It?</h2>
+        <h2>Why I'm Building It</h2>
         <p>MoneyTrail started with a personal finance spreadsheet. I used Google Sheets to track where I spent my money, how much I've spent, what remained in my main account,
-          and how much money I had accross my spending and savings accounts.
+          and how much money I had across my spending and savings accounts.
         </p>
 
         <p>After spending so much time tracking my finances manually, I wanted to turn that system into something of my own. Watching Caleb Hammer's Financial Audit and hearing about DollarWise 
-          also inspired me to explore what personal finance application could look like.
+          also inspired me to explore what a personal finance application could look like.
         </p>
 
         <p>MoneyTrail brings together two things I'm genuinely interested in: personal finances and software development. Instead of relying on my spreadsheet, I want to gradually build the tools 
